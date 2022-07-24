@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1923392f146daee4898a640fb44e2091, type: 3}
+  m_Name: 360 Spin
+  m_EditorClassIdentifier: 
+  cooldown: 2.25
+  staminaUse: 15
+  hitboxes: 02000000
+  hitboxScales:
+  - {x: 2.25, y: 2.25}
+  attackPosits: 02000000
+  positParams:
+  - 0
+  playerMovements:
+  - {x: 0, y: 0}
+  moveContraints: 00000000
+  knockbacks:
+  - 2
+  knockbackOrigins: 01000000
+  knockbackStrengths: 03000000
+  windups:
+  - 0.5
+  dmgDurations:
+  - 0.5
+  flatDmgMods:
+  - 2
+  multDmgMods:
+  - 1.1

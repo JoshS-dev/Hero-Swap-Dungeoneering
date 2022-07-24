@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1923392f146daee4898a640fb44e2091, type: 3}
+  m_Name: Lunge
+  m_EditorClassIdentifier: 
+  cooldown: 4.25
+  staminaUse: 50
+  hitboxes: 03000000
+  hitboxScales:
+  - {x: 3, y: 1}
+  attackPosits: 01000000
+  positParams:
+  - 0
+  playerMovements:
+  - {x: 4.25, y: 0}
+  moveContraints: 03000000
+  knockbacks:
+  - 3
+  knockbackOrigins: 00000000
+  knockbackStrengths: 03000000
+  windups:
+  - 0.75
+  dmgDurations:
+  - 0.5
+  flatDmgMods:
+  - 5
+  multDmgMods:
+  - 1.5

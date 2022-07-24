@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1923392f146daee4898a640fb44e2091, type: 3}
+  m_Name: Pull
+  m_EditorClassIdentifier: 
+  cooldown: 2
+  staminaUse: 5
+  hitboxes: 01000000
+  hitboxScales:
+  - {x: 0.6, y: 1.8}
+  attackPosits: 01000000
+  positParams:
+  - 0.2
+  playerMovements:
+  - {x: 0, y: 0}
+  moveContraints: 01000000
+  knockbacks:
+  - -0.65
+  knockbackOrigins: 00000000
+  knockbackStrengths: 03000000
+  windups:
+  - 0.4
+  dmgDurations:
+  - 0.25
+  flatDmgMods: []
+  multDmgMods:
+  - 0.25

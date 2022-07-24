@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 863ceab75bad1c14c95ec57e09476ddc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TEMP_NUM: {instanceID: 0}
+  - indicator: {fileID: 1114609910011287751, guid: c93798052ffb7bd40a6842476cc83452,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

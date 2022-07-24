@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1923392f146daee4898a640fb44e2091, type: 3}
+  m_Name: Discipline
+  m_EditorClassIdentifier: 
+  cooldown: 1.5
+  staminaUse: 25
+  hitboxes: 0100000003000000
+  hitboxScales:
+  - {x: 1.5, y: 1.5}
+  - {x: 0.85, y: 0.35}
+  attackPosits: 0100000004000000
+  positParams:
+  - -0.1
+  - 16
+  breaksOnEnv: 0001
+  playerMovements:
+  - {x: -0.5, y: 0}
+  - {x: 0, y: 0}
+  moveContraints: 0200000000000000
+  knockbacks:
+  - 1.5
+  - 0.5
+  knockbackOrigins: 0200000001000000
+  knockbackStrengths: 0300000000000000
+  windups:
+  - 0.25
+  - 0.5
+  dmgDurations:
+  - 0.15
+  - 0.35
+  flatDmgMods:
+  - 0
+  - 3
+  multDmgMods:
+  - 1
+  - 1.15

@@ -1,0 +1,188 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8258274897497503941
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3915757497516970695, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: m_text
+      value: Rock Golem
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757497690144118, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757497690144118, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757497690144118, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331042, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: m_Name
+      value: Boss (Rock Golem)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331043, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331043, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.003921569
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331043, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.15294118
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331043, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.34901962
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331044, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331044, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331044, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331044, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331044, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331044, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331044, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331044, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331044, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331044, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331044, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331044, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331044, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331045, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: isBoss
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331045, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: tempMove
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331045, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: enemyName
+      value: Rock Golem
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331045, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: maxHealth
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331045, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: moveParam
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331045, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: moveSpeed
+      value: 1.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331045, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: pathUpdateRate
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331045, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: attackChangeTime
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331045, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: attacks.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331045, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: attacks.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: 3e37d1853300a544caa28e1a824c95ad,
+        type: 2}
+    - target: {fileID: 3915757498532331045, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: attacks.Array.data[1]
+      value: 
+      objectReference: {fileID: 11400000, guid: 813c0b7aa5f4bcd44b78de4014f4dcb3,
+        type: 2}
+    - target: {fileID: 3915757498532331048, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: m_Radius
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3915757498532331048, guid: d49180dbeb77045408169e4b9534e24f,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d49180dbeb77045408169e4b9534e24f, type: 3}

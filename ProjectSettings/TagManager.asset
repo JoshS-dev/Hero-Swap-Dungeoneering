@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Blocking Environment
+  - Enemy
+  - Pickup
+  - Hitbox
+  - Walls
+  - Room
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 
+  - Enemy
+  - 
+  - Obstacle
+  - 
+  - Weak Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - overtop
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 13284467
+    locked: 0
+  - name: Enemy
+    uniqueID: 57455577
+    locked: 0
+  - name: Obstacle
+    uniqueID: 1287219459
+    locked: 0
+  - name: Wall
+    uniqueID: 581632159
+    locked: 0
+  - name: Aura
+    uniqueID: 427544223
+    locked: 0
+  - name: Pickup
+    uniqueID: 140131001
+    locked: 0
+  - name: Player
+    uniqueID: 1957574029
+    locked: 0
+  - name: Hitbox
+    uniqueID: 2167459143
+    locked: 0
+  - name: Overlay
+    uniqueID: 2208912531
+    locked: 0
+  - name: UI
+    uniqueID: 3464836007
+    locked: 0

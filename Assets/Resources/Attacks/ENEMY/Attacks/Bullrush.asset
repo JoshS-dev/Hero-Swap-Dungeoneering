@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1923392f146daee4898a640fb44e2091, type: 3}
+  m_Name: Bullrush
+  m_EditorClassIdentifier: 
+  cooldown: 2.5
+  staminaUse: 0
+  hitboxes: 03000000
+  hitboxScales:
+  - {x: 0.3, y: 1}
+  attackPosits: 01000000
+  positParams:
+  - 0
+  playerMovements:
+  - {x: 7.5, y: 0}
+  moveContraints: 01000000
+  knockbacks:
+  - 0
+  knockbackOrigins: 00000000
+  knockbackStrengths: 01000000
+  windups:
+  - 1.25
+  dmgDurations:
+  - 1
+  flatDmgMods:
+  - 8
+  multDmgMods: []
